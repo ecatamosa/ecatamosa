@@ -17,7 +17,7 @@
 
  About Me
 
-- 🔭 Currently working on **Toolbucks**
+- 🔭 Currently working on **AGUSAN DEL NORTE PROVINCIAL HOSPTIAL**
 - 🎓 BSIT Student
 - 🌏 Based in Philippines
 - 💡 Passionate about UI/UX and clean design
@@ -90,7 +90,7 @@
 
 ---
 
-## 🚀 Quote I Live By
+
 
 > “Code is not just syntax. It’s problem solving.”
 
