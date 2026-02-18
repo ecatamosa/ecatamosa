@@ -15,7 +15,7 @@
 
 ---
 
-## 🌟 About Me
+ About Me
 
 - 🔭 Currently working on **Toolbucks**
 - 🎓 BSIT Student
@@ -25,7 +25,7 @@
 
 ---
 
-## 🌐 Connect With Me
+ Connect With Me
 
 <p align="center">
   <a href="https://github.com/ecatamosa">
@@ -35,19 +35,19 @@
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 
-### 💻 Frontend
+ Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" />
 </p>
 
-### ⚙️ Backend
+ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,laravel,java,python" />
 </p>
 
-### 🗄️ Database
+ Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
@@ -63,7 +63,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+ GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ecatamosa&theme=tokyonight&hide_border=true" />
@@ -71,7 +71,7 @@
 
 ---
 
-## 🧠 3D Contribution Graph (Animated)
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ecatamosa&theme=tokyonight" />
@@ -83,7 +83,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ecatamosa/ecatamosa/output/snake.svg" alt="snake animation"/>
