@@ -1,23 +1,102 @@
-<h1 align="center">Hi 👋, I'm Eisan Carlos Atamosa</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  Hi 👋 I'm Eisan Carlos Atamosa
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ecatamosa&label=Profile%20views&color=0e75b6&style=flat" alt="ecatamosa" /> </p>
+<h3 align="center">
+  💻 Frontend Developer | BSIT Student | Problem Solver
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ecatamosa" alt="ecatamosa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Toolbucks](https://toolbucks.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer;React+%7C+Vue+%7C+Node;UI%2FUX+Focused;Building+Modern+Web+Applications" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecatamosa&show_icons=true&locale=en&layout=compact" alt="ecatamosa" /></p>
+## 🌟 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecatamosa&show_icons=true&locale=en" alt="ecatamosa" /></p>
+- 🔭 Currently working on **Toolbucks**
+- 🎓 BSIT Student
+- 🌏 Based in Philippines
+- 💡 Passionate about UI/UX and clean design
+- 🚀 Always learning new technologies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecatamosa&" alt="ecatamosa" /></p>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ecatamosa">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,java,python" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ecatamosa&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecatamosa&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ecatamosa&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 3D Contribution Graph (Animated)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ecatamosa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ecatamosa&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ecatamosa/ecatamosa/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🚀 Quote I Live By
+
+> “Code is not just syntax. It’s problem solving.”
+
+---
+
+<p align="center">
+  ⭐ If you like my projects, consider giving them a star!
+</p>
